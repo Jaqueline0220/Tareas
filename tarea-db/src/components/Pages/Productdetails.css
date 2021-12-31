@@ -1,0 +1,24 @@
+.cajaD {
+	padding: 14px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+
+.cajaD img{
+    width: 30%;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.regresar{
+    padding: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #b6edc8;
+    color: black;
+    border: 1px;
+}

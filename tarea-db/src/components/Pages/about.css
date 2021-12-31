@@ -1,0 +1,41 @@
+
+
+.aboutheader h2 > a {
+	font-weight: 700;
+	text-decoration: none;
+}
+.aboutheader {
+	text-align: center;
+}
+
+
+/* BODY */
+.aboutbody{
+    margin: 0 auto;
+    width: 30%;
+}
+.aboutbody ul {
+	margin-left: 1rem;
+	list-style: disc;
+	text-align: left;
+}
+
+ a {
+	text-decoration: none;
+	color: #b6edc8;
+}
+
+/* IMAGE */
+.aboutimg {
+	display: flex;
+	width: 20%;
+	margin: 0 auto;
+	padding: 0.5rem;
+	clip-path: circle(50% at 50% 50%);
+	aspect-ratio: 1/1;
+}
+
+.aboutinside {
+	clip-path: circle(50% at 50% 50%);
+    width: 100%;
+}
